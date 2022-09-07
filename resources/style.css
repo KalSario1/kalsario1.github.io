@@ -1,0 +1,44 @@
+html {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+    
+}
+
+
+
+.main-title {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+
+a {
+    color:aquamarine;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 16px;
+}
+
+a:link {
+    color: aquamarine;
+}
+
+.article-title {
+    font-weight: 300;
+    font-size: 42;
+    color:white;
+}
+
+.para1 {
+    font-size: 21px;
+    color:grey;
+}
+.article-title2 {
+    font-weight: 300;
+    font-size: 42;
+    color:white;
+}
